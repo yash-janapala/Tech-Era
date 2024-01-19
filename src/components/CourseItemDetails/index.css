@@ -1,0 +1,28 @@
+.course-item-view-container {
+  height: 440px;
+  width: 900px;
+  display: flex;
+  margin-left: 40px;
+  border-top-left-radius: 10px;
+  padding-top: 40px;
+  border-bottom-left-radius: 10px;
+}
+.course-item-image {
+  height: 400px;
+}
+.course-details-container {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+  padding-left: 35px;
+  padding-right: 35px;
+  width: 600px;
+  box-shadow: 1px 1px 0px 2px #e8e8e8;
+}
+.course-item-heading {
+  color: #1e293b;
+}
+.course-item-description {
+  color: #475569;
+  line-height: 1.8;
+}
